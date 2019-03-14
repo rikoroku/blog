@@ -1,5 +1,6 @@
 # blog
-rikoroku.comにデプロイする静的サイト
+[rikoroku.com](https://rikoroku.com)にデプロイする静的サイト
+
 
 ## Prepare
 ```
