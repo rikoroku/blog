@@ -1,3 +1,5 @@
 .firebase
 .firebaserc
 hugo/public/
+firebase-debug.log
+.DS_store
