@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rikoroku.com</title>
+    <link>https://rikoroku.com/</link>
+    <description>Recent content on rikoroku.com</description>
+    <generator>Hugo - gohugo.io</generator>
+    <language>en</language>
+    <contact></contact>
+    <copyright></copyright>
+    
+        <atom:link href="https://rikoroku.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, world</title>
+      <link>https://rikoroku.com/post/2019-03-14/</link>
+      <pubDate>Thu, 14 Mar 2019 05:58:07 +0000</pubDate>
+      <author></author>
+      <guid>https://rikoroku.com/post/2019-03-14/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

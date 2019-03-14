@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on rikoroku.com</title>
+    <link>https://rikoroku.com/post/</link>
+    <description>Recent content in Posts on rikoroku.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Mar 2019 05:58:07 +0000</lastBuildDate>
+    
+	<atom:link href="https://rikoroku.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, world</title>
+      <link>https://rikoroku.com/post/2019-03-14/</link>
+      <pubDate>Thu, 14 Mar 2019 05:58:07 +0000</pubDate>
+      
+      <guid>https://rikoroku.com/post/2019-03-14/</guid>
+      <description>こんにちは。
+本日にて当ブログを開始しました。
+プログラミング関連の内容から私事に至るまで、気の赴くままに記事を記載していく想定です。
+無知な若者ですので、どうか温かい目で見守って頂けたなら幸いです。</description>
+    </item>
+    
+  </channel>
+</rss>
