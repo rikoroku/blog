@@ -1,0 +1,23 @@
+baseURL = "https://rikoroku.com/"
+languageCode = "en-us"
+title = "rikoroku.com"
+theme = "kiss"
+enableRobotsTXT = true
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.opengraph.twitter]
+page = ""
+
+[params.social]
+twitter = "rikoroku_ja"
+github = "rikoroku"
+email = "rikoroku.55@gmail.com"
+instagram = "rikoroku_ja"
+
+[params.social.config]
+platforms = ["github","facebook","twitter","instagram","email"]
+
+[blackfriday]
+hrefTargetBlank = true
