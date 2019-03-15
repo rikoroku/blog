@@ -17,3 +17,4 @@ services:
       - server
       - --bind=0.0.0.0
       - --watch
+      - -D
