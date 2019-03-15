@@ -18,11 +18,12 @@ ACCEL UNIVERSE CORPORATION - System developer (January 2015 - October 2016)
 [KINDEN CORPORATION](http://www.kinden.co.jp/) - Site worker (April 2013 - December 2014) Electrical work for building construction.
 
 ## Education
-* [Hirosaki Technical High School](http://www.hirosaki-th.asn.ed.jp/index-j.html) - HIGH SCHOOL DIPLOMA Electricity(2010 - 2013)
+[Hirosaki Technical High School](http://www.hirosaki-th.asn.ed.jp/index-j.html) - HIGH SCHOOL DIPLOMA Electricity(2010 - 2013)
 
 ## Languages
-* Japanese – native
-* English – beginner
+Japanese – native
+
+English – beginner
 
 ## Personal projects
 
@@ -36,6 +37,10 @@ ACCEL UNIVERSE CORPORATION - System developer (January 2015 - October 2016)
 
 [EveryDay Todo(iOS)](https://itunes.apple.com/us/app/%E6%AF%8E%E6%97%A5todo/id1296569907?mt=8) - iOS app development (September 2017 - October 2017) Angular2, Ionic, TypeScript
 
-### Technologies and Skills Summary:
+## Technologies and Skills Summary
 
-HTML5, CSS3, JavaScript, TypeScript, jQuery, Angular, ionic, PHP, CakePHP, Laravel, Ruby, Ruby on Rails, Golang, Redhat, Ubuntu, Git, bash, Atlassian, NGINX, Apache, Github, Bitbucket, PostgreSQL, MySQL, DynamoDB, Wordpress, Zabbix, Backlog, Slack, Docker, AWS, RESTful APIs
+HTML5, CSS3, JavaScript, TypeScript, jQuery, Angular, ionic, PHP, CakePHP, Laravel, Ruby, Ruby on Rails, Golang
+
+Redhat, Ubuntu, Git, bash, NGINX, Apache, PostgreSQL, MySQL, DynamoDB, Wordpress, Docker, RESTful APIs, AWS
+
+Github, Bitbucket, Atlassian, Zabbix, Backlog, Slack
