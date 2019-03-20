@@ -4,7 +4,7 @@ hidden: true
 ---
 
 ## About me
-I'm a freelance web developer who can using languages are Ruby, PHP, Golang, JavaScript.
+I'm a freelance web developer who can using languages are Ruby, PHP, Golang and JavaScript.
 
 
 
@@ -41,6 +41,6 @@ English – beginner
 
 HTML5, CSS3, JavaScript, TypeScript, jQuery, Angular, ionic, PHP, CakePHP, Laravel, Ruby, Ruby on Rails, Golang
 
-Redhat, Ubuntu, Git, bash, NGINX, Apache, PostgreSQL, MySQL, DynamoDB, Wordpress, Docker, RESTful APIs, AWS
+Redhat, Ubuntu, Git, bash, NGINX, Apache, PostgreSQL, MySQL, DynamoDB, Wordpress, Docker, RESTful APIs, AWS, tig
 
 Github, Bitbucket, Atlassian, Zabbix, Backlog, Slack
