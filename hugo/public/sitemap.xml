@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rikoroku.com/post/favorite-visual-novels/</loc>
-    <lastmod>2019-03-23T04:12:40+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rikoroku.com/post/general-rule-of-design-patterns/</loc>
     <lastmod>2019-03-23T00:46:06+00:00</lastmod>
   </url>
@@ -48,7 +43,7 @@
   
   <url>
     <loc>https://rikoroku.com/post/</loc>
-    <lastmod>2019-03-23T04:12:40+00:00</lastmod>
+    <lastmod>2019-03-23T00:46:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,7 +54,7 @@
   
   <url>
     <loc>https://rikoroku.com/</loc>
-    <lastmod>2019-03-23T04:12:40+00:00</lastmod>
+    <lastmod>2019-03-23T00:46:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
