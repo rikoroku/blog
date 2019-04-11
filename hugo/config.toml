@@ -9,13 +9,12 @@ customCSS = ["css/custom.css"]
 
 [params.social]
 github = "rikoroku"
-email = "rikoroku.55@gmail.com"
 instagram = "164928929@N02/albums"
 about = "resume"
 rss = 'index.xml'
 
 [params.social.config]
-platforms = ["github","instagram","email","about","rss"]
+platforms = ["github","instagram","about","rss"]
 
 [blackfriday]
 hrefTargetBlank = false
