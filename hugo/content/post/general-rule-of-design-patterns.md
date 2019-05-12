@@ -1,7 +1,7 @@
 ---
 title: "デザインパターン5原則"
 date: 2019-03-23T00:46:06Z
-draft: false
+draft: true
 ---
 
 ## 基本原則
