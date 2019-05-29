@@ -4,11 +4,11 @@ hidden: true
 ---
 
 ## About me
-I'm a freelance web developer who can using languages are Ruby, PHP, Golang and JavaScript.
-
-
+I'm a web developer at [MMM Co., Ltd.](https://mmmcorp.co.jp/) who can using languages are Ruby, PHP, Golang and JavaScript.
 
 ## Work experience
+[MMM Co., Ltd.](https://mmmcorp.co.jp/) - Web developer (May 2019 - Present)
+
 CHIYUU - Freelance web developer (January 2017 - Present)
 
 [DMM ACADEMY](https://dmm.academy/) - Web developer (April 2017 - July 2017)
