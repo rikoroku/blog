@@ -13,7 +13,7 @@ CHIYUU - Freelance web developer (January 2017 - Present)
 
 [DMM ACADEMY](https://dmm.academy/) - Web developer (April 2017 - July 2017)
 
-ACCEL UNIVERSE CORPORATION - System developer (January 2015 - October 2016)
+ACCEL UNIVERSE CORPORATION - Web developer (January 2015 - October 2016)
 
 [KINDEN CORPORATION](http://www.kinden.co.jp/) - Site worker (April 2013 - December 2014) Electrical work for building construction.
 
