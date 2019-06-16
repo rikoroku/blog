@@ -9,7 +9,7 @@ customCSS = ["css/custom.css"]
 
 [params.social]
 github = "rikoroku"
-instagram = "164928929@N02/albums"
+instagram = "/photos/"
 about = "resume"
 rss = 'index.xml'
 
