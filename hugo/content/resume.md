@@ -1,4 +1,6 @@
 ---
+title: "Resume"
+date: 2019-06-16T10:19:23+09:00
 draft: false
 hidden: true
 ---
