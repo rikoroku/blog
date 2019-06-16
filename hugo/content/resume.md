@@ -40,3 +40,10 @@ HTML5, CSS3, JavaScript, TypeScript, jQuery, Angular, ionic, PHP, CakePHP, Larav
 Redhat, Ubuntu, Git, bash, NGINX, Apache, PostgreSQL, MySQL, DynamoDB, Wordpress, Docker, RESTful APIs, AWS, tig
 
 Github, Bitbucket, Atlassian, Zabbix, Backlog, Slack
+
+## Places
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1XYS0gAgM7s67PoS0y2_TQEvnqaUdx42t" width="640" height="480"></iframe>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1yo85G4hsyin0v3AD1aEz2rNEz2LEiyNr" width="640" height="480"></iframe>
+
