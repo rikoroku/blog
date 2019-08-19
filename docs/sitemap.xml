@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://rikoroku.com/photos/</loc>
+    <lastmod>2019-06-16T10:19:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rikoroku.com/resume/</loc>
+    <lastmod>2019-06-16T10:19:23+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rikoroku.com/</loc>
+    <lastmod>2019-06-16T10:19:23+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rikoroku.com/post/</loc>
+    <lastmod>2019-03-22T02:48:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rikoroku.com/post/daily-routines/</loc>
+    <lastmod>2019-03-22T02:48:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rikoroku.com/post/how-to-generate-idea-of-service/</loc>
+    <lastmod>2019-03-17T00:44:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rikoroku.com/post/favorite-animes/</loc>
+    <lastmod>2019-03-14T15:29:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rikoroku.com/post/books-that-finished-reading/</loc>
+    <lastmod>2019-03-14T10:06:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rikoroku.com/post/hello-world/</loc>
+    <lastmod>2019-03-14T05:58:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rikoroku.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://rikoroku.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
