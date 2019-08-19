@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on rikoroku.com</title>
-    <link>https://rikoroku.com/post/</link>
-    <description>Recent content in Posts on rikoroku.com</description>
+    <title>Posts on blogs</title>
+    <link>https://rikoroku.github.io/blogs/post/</link>
+    <description>Recent content in Posts on blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 22 Mar 2019 02:48:44 +0000</lastBuildDate>
     
-	<atom:link href="https://rikoroku.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rikoroku.github.io/blogs/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>日々の習慣</title>
-      <link>https://rikoroku.com/post/daily-routines/</link>
+      <link>https://rikoroku.github.io/blogs/post/daily-routines/</link>
       <pubDate>Fri, 22 Mar 2019 02:48:44 +0000</pubDate>
       
-      <guid>https://rikoroku.com/post/daily-routines/</guid>
+      <guid>https://rikoroku.github.io/blogs/post/daily-routines/</guid>
       <description>   項目 頻度 時機 継続期間 忘れた場合 備考     ラジオ体操第一 毎日 朝 2016-04 〜 別に良い    引き寄せの法則 毎日 朝、夜 2016-08 〜 気持ち悪い 内容は省略   サプリ摂取 毎日 朝、夜 2016-04 〜 気持ち悪い DHA/EPA, ビオチン, マルチビタミン, ホスファチジルセリン, アシドフィルス＆ビフィズス菌   筋トレ 毎日 朝、夜 2018-11 〜 損した気分 アブホイール20往復,プッシュアップバー腕立て20回   脳トレ 毎日 朝 2016-04 〜 気持ち悪い 高速音読15分, 旧(PEAK, 七田式超右脳トレーニング, 速聴)   瞑想 毎日 朝 2016-04 〜 もやもやする アーナパーナ・サティ, ヴィパッサナー   柔軟 週3日以上 夜 2018-11 〜 別に良い    ストレッチポール 週3日以上 夜 2018-11 〜 別に良い     </description>
     </item>
     
     <item>
       <title>サービス開発というコンテキストのアイデアを生み出すために行なっていること</title>
-      <link>https://rikoroku.com/post/how-to-generate-idea-of-service/</link>
+      <link>https://rikoroku.github.io/blogs/post/how-to-generate-idea-of-service/</link>
       <pubDate>Sun, 17 Mar 2019 00:44:59 +0000</pubDate>
       
-      <guid>https://rikoroku.com/post/how-to-generate-idea-of-service/</guid>
+      <guid>https://rikoroku.github.io/blogs/post/how-to-generate-idea-of-service/</guid>
       <description>アイデアとは そもそも「アイデアとは」というところを自分なりに定義するところから始まると思いますので定義しておきます。
 どこかからの引用なのですが、「既存の要素の新しい組み合わせ以外の何ものでもない」が今のところしっくりくるので僕の中でアイデアとはこのように定義づけます。
 アイデアをなぜ生み出したいのか 単純にお金が欲しいです。「貧困に困っている人達を助けたい」や「自身のアイデアで世界を変えたい」といった崇高な志は今のところ持ち得ていません。お金があれば社会で出来ることはたくさんあります。
@@ -62,20 +62,20 @@
     
     <item>
       <title>Favorite Animes</title>
-      <link>https://rikoroku.com/post/favorite-animes/</link>
+      <link>https://rikoroku.github.io/blogs/post/favorite-animes/</link>
       <pubDate>Thu, 14 Mar 2019 15:29:01 +0000</pubDate>
       
-      <guid>https://rikoroku.com/post/favorite-animes/</guid>
+      <guid>https://rikoroku.github.io/blogs/post/favorite-animes/</guid>
       <description> 鑑賞済の観点も含めると膨大な量となるため、好きなアニメのみ記載。
  カウボーイビバップ サムライチャンプルー STEINS;GATE STEINS;GATE 0 魔法少女まどか☆マギカ リトルバスターズ ゼロの使い魔 CLANNAD とらドラ！ コードギアス 反逆のルルーシュ 天元突破グレンラガン 鋼の錬金術師 TIGER &amp;amp; BUNNY けものフレンズ ふしぎの海のナディア ハイスコアガール あの日見た花の名前を僕達はまだ知らない。 王ドロボウJING ノーゲーム・ノーライフ 四月は君の嘘 瀬戸の花嫁 やがて君になる 今日からマ王！ 涼宮ハルヒの憂鬱 アカギ 響け! ユーフォニアム 夏目友人帳 花咲くいろは らき☆すた 咲-Saki-  余談 今後見てみたいアニメ  めぞん一刻 タッチ スペースコブラ きまぐれオレンジ☆ロード エヴァンゲリオン ハチミツとクローバー Fate/stay night ひぐらしのなく頃に 攻殻機動隊 交響詩篇エウレカセブン フルメタル・パニック! 宇宙よりも遠い場所 3月のライオン 喰霊-零-  </description>
     </item>
     
     <item>
       <title>読了本</title>
-      <link>https://rikoroku.com/post/books-that-finished-reading/</link>
+      <link>https://rikoroku.github.io/blogs/post/books-that-finished-reading/</link>
       <pubDate>Thu, 14 Mar 2019 10:06:21 +0000</pubDate>
       
-      <guid>https://rikoroku.com/post/books-that-finished-reading/</guid>
+      <guid>https://rikoroku.github.io/blogs/post/books-that-finished-reading/</guid>
       <description>今更ながらにその一年、どういった本を読んでいたのかまとめたくなったので実行します。
 現執筆時(2019/03/14)より思い出せる範囲でのみの記載とします。
 2019 文芸 小説
@@ -86,10 +86,10 @@
     
     <item>
       <title>Hello, world</title>
-      <link>https://rikoroku.com/post/hello-world/</link>
+      <link>https://rikoroku.github.io/blogs/post/hello-world/</link>
       <pubDate>Thu, 14 Mar 2019 05:58:07 +0000</pubDate>
       
-      <guid>https://rikoroku.com/post/hello-world/</guid>
+      <guid>https://rikoroku.github.io/blogs/post/hello-world/</guid>
       <description>こんにちは。
 本日にて当ブログを開始しました。
 プログラミング関連の内容から私事に至るまで、気の赴くままに記事を記載していく想定です。
