@@ -1,5 +1,4 @@
-# blog
-[rikoroku.com](https://rikoroku.com)にデプロイする静的サイト
+# blogs
 
 ## Development
 ```
