@@ -1,82 +1,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blogs</title>
-    <link>https://rikoroku.github.io/blogs/</link>
-    <description>Recent content on blogs</description>
+    <title>Blog</title>
+    <link>https://rikoroku.github.io/blog/</link>
+    <description>Recent content on Blog</description>
     <generator>Hugo - gohugo.io</generator>
     <language>en</language>
     <contact></contact>
     <copyright></copyright>
     
-        <atom:link href="https://rikoroku.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rikoroku.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Photos</title>
-      <link>https://rikoroku.github.io/blogs/photos/</link>
+      <link>https://rikoroku.github.io/blog/photos/</link>
       <pubDate>Sun, 16 Jun 2019 10:19:23 +0900</pubDate>
       <author></author>
-      <guid>https://rikoroku.github.io/blogs/photos/</guid>
+      <guid>https://rikoroku.github.io/blog/photos/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://rikoroku.github.io/blogs/resume/</link>
+      <link>https://rikoroku.github.io/blog/resume/</link>
       <pubDate>Sun, 16 Jun 2019 10:19:23 +0900</pubDate>
       <author></author>
-      <guid>https://rikoroku.github.io/blogs/resume/</guid>
+      <guid>https://rikoroku.github.io/blog/resume/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>日々の習慣</title>
-      <link>https://rikoroku.github.io/blogs/post/daily-routines/</link>
+      <link>https://rikoroku.github.io/blog/post/daily-routines/</link>
       <pubDate>Fri, 22 Mar 2019 02:48:44 +0000</pubDate>
       <author></author>
-      <guid>https://rikoroku.github.io/blogs/post/daily-routines/</guid>
+      <guid>https://rikoroku.github.io/blog/post/daily-routines/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>サービス開発というコンテキストのアイデアを生み出すために行なっていること</title>
-      <link>https://rikoroku.github.io/blogs/post/how-to-generate-idea-of-service/</link>
+      <link>https://rikoroku.github.io/blog/post/how-to-generate-idea-of-service/</link>
       <pubDate>Sun, 17 Mar 2019 00:44:59 +0000</pubDate>
       <author></author>
-      <guid>https://rikoroku.github.io/blogs/post/how-to-generate-idea-of-service/</guid>
+      <guid>https://rikoroku.github.io/blog/post/how-to-generate-idea-of-service/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Favorite Animes</title>
-      <link>https://rikoroku.github.io/blogs/post/favorite-animes/</link>
+      <link>https://rikoroku.github.io/blog/post/favorite-animes/</link>
       <pubDate>Thu, 14 Mar 2019 15:29:01 +0000</pubDate>
       <author></author>
-      <guid>https://rikoroku.github.io/blogs/post/favorite-animes/</guid>
+      <guid>https://rikoroku.github.io/blog/post/favorite-animes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>読了本</title>
-      <link>https://rikoroku.github.io/blogs/post/books-that-finished-reading/</link>
+      <link>https://rikoroku.github.io/blog/post/books-that-finished-reading/</link>
       <pubDate>Thu, 14 Mar 2019 10:06:21 +0000</pubDate>
       <author></author>
-      <guid>https://rikoroku.github.io/blogs/post/books-that-finished-reading/</guid>
+      <guid>https://rikoroku.github.io/blog/post/books-that-finished-reading/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hello, world</title>
-      <link>https://rikoroku.github.io/blogs/post/hello-world/</link>
+      <link>https://rikoroku.github.io/blog/post/hello-world/</link>
       <pubDate>Thu, 14 Mar 2019 05:58:07 +0000</pubDate>
       <author></author>
-      <guid>https://rikoroku.github.io/blogs/post/hello-world/</guid>
+      <guid>https://rikoroku.github.io/blog/post/hello-world/</guid>
       <description></description>
       
     </item>

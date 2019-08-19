@@ -1,8 +1,8 @@
-# blogs
+# blog
 
 ## Development
 ```
-$ cd ~/Documents/git/blogs/hugo
+$ cd ~/Documents/git/blog/hugo
 $ hugo new post/new_post.md
 $ hugo -t kiss --themesDir ./themes/ server
 ```
@@ -10,8 +10,8 @@ $ hugo -t kiss --themesDir ./themes/ server
 ## Deploy
 ```
 $ hugo -t kiss
-$ rm -fr ~/Documents/git/blogs/docs/* && mv public/* ~/Documents/git/blogs/docs/
-$ cd ~/Documents/git/blogs/docs && git add --all && git commit -m "[add] Publishing to docs"
+$ rm -fr ~/Documents/git/blog/docs/* && mv ~/Documents/git/blog/public/* ~/Documents/git/blog/docs/
+$ cd ~/Documents/git/blog/docs && git add --all && git commit -m "[add] Publishing to docs"
 ```
 
 ### old

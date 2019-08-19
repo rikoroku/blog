@@ -1,6 +1,6 @@
-baseURL = "https://rikoroku.github.io/blogs/"
+baseURL = "https://rikoroku.github.io/blog/"
 languageCode = "ja-jp"
-title = "blogs"
+title = "Blog"
 theme = "kiss"
 enableRobotsTXT = true
 
