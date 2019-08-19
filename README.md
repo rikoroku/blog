@@ -11,7 +11,7 @@ $ hugo -t kiss --themesDir ./themes/ server
 ```
 $ hugo -t kiss
 $ rm -fr ~/Documents/git/blogs/docs/* && mv public/* ~/Documents/git/blogs/docs/
-$ ~/Documents/git/blogs/docs && git add --all && git commit -m "[add] Publishing to docs"
+$ cd ~/Documents/git/blogs/docs && git add --all && git commit -m "[add] Publishing to docs"
 ```
 
 ### old
