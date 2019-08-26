@@ -11,6 +11,9 @@ hidden: true
 - [Shizuoka](https://photos.app.goo.gl/uzsxzqMUSPCKr7ZB7)
 - [Tokyo Disney Resort](https://photos.app.goo.gl/CEuXHU6kZLEAhUFM8)
 
+## Vietnam
+- [Ho Chi Minh City](https://photos.app.goo.gl/wmQZ2fijSyMVeRf4A)
+
 ## Australia
 - [Gold Coast](https://photos.app.goo.gl/51dxkg3yRZp81ios6)
 - [Brisbane](https://photos.app.goo.gl/qd4Du3eMU6Lwe6pq8)
