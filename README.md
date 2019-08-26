@@ -10,8 +10,8 @@ $ hugo -t kiss --themesDir ./themes/ server
 ## Deploy
 ```
 $ hugo -t kiss
-$ rm -fr ~/Documents/git/blog/docs/* && mv ~/Documents/git/blog/public/* ~/Documents/git/blog/docs/
-$ cd ~/Documents/git/blog/docs && git add --all && git commit -m "[add] Publishing to docs"
+$ rm -fr ~/Documents/git/blog/docs/* && mv ~/Documents/git/blog/hugo/public/* ~/Documents/git/blog/docs/
+$ cd ~/Documents/git/blog/docs && git add --all && git commit -m "[add] Publishing to docs" && git push origin master
 ```
 
 ### old
