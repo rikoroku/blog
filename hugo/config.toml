@@ -1,4 +1,4 @@
-baseURL = "https://rikoroku.github.io/blog/"
+baseURL = "https://rikoroku.com/"
 languageCode = "ja-jp"
 title = "Blog"
 theme = "kiss"
