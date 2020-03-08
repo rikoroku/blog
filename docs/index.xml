@@ -7,10 +7,30 @@
     <language>en</language>
     <contact></contact>
     <copyright></copyright>
-
+    
         <atom:link href="https://rikoroku.com/index.xml" rel="self" type="application/rss+xml" />
-
-
+    
+    
+    <item>
+      <title>忘れたくない概念</title>
+      <link>https://rikoroku.com/post/dont-want-to-forget/</link>
+      <pubDate>Sat, 23 Nov 2019 16:04:29 +0900</pubDate>
+      <author></author>
+      <guid>https://rikoroku.com/post/dont-want-to-forget/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>子供に教えたい/してあげたいこと</title>
+      <link>https://rikoroku.com/post/for-my-children/</link>
+      <pubDate>Fri, 22 Nov 2019 15:19:56 +0900</pubDate>
+      <author></author>
+      <guid>https://rikoroku.com/post/for-my-children/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Photos</title>
       <link>https://rikoroku.com/photos/</link>
@@ -18,9 +38,9 @@
       <author></author>
       <guid>https://rikoroku.com/photos/</guid>
       <description></description>
-
+      
     </item>
-
+    
     <item>
       <title>Resume</title>
       <link>https://rikoroku.com/resume/</link>
@@ -28,9 +48,9 @@
       <author></author>
       <guid>https://rikoroku.com/resume/</guid>
       <description></description>
-
+      
     </item>
-
+    
     <item>
       <title>日々の習慣</title>
       <link>https://rikoroku.com/post/daily-routines/</link>
@@ -38,9 +58,9 @@
       <author></author>
       <guid>https://rikoroku.com/post/daily-routines/</guid>
       <description></description>
-
+      
     </item>
-
+    
     <item>
       <title>サービス開発というコンテキストのアイデアを生み出すために行なっていること</title>
       <link>https://rikoroku.com/post/how-to-generate-idea-of-service/</link>
@@ -48,9 +68,9 @@
       <author></author>
       <guid>https://rikoroku.com/post/how-to-generate-idea-of-service/</guid>
       <description></description>
-
+      
     </item>
-
+    
     <item>
       <title>Favorite Animes</title>
       <link>https://rikoroku.com/post/favorite-animes/</link>
@@ -58,9 +78,9 @@
       <author></author>
       <guid>https://rikoroku.com/post/favorite-animes/</guid>
       <description></description>
-
+      
     </item>
-
+    
     <item>
       <title>読了本</title>
       <link>https://rikoroku.com/post/books-that-finished-reading/</link>
@@ -68,9 +88,9 @@
       <author></author>
       <guid>https://rikoroku.com/post/books-that-finished-reading/</guid>
       <description></description>
-
+      
     </item>
-
+    
     <item>
       <title>Hello, world</title>
       <link>https://rikoroku.com/post/hello-world/</link>
@@ -78,8 +98,8 @@
       <author></author>
       <guid>https://rikoroku.com/post/hello-world/</guid>
       <description></description>
-
+      
     </item>
-
+    
   </channel>
 </rss>
