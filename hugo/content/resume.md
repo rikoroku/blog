@@ -6,9 +6,11 @@ hidden: true
 ---
 
 ## About me
+
 I'm a web developer who can using languages are Ruby, PHP, Golang and JavaScript.
 
 ## Work experience
+
 [MMM Co., Ltd.](https://mmmcorp.co.jp/) - Web developer (May 2019 - July 2019)
 
 CHIYUU - Freelance web developer (January 2017 - Present)
@@ -20,16 +22,18 @@ ACCEL UNIVERSE CORPORATION - Web developer (January 2015 - October 2016)
 [KINDEN CORPORATION](http://www.kinden.co.jp/) - Site worker (April 2013 - December 2014) Electrical work for building construction.
 
 ## Education
+
 [Hirosaki Technical High School](http://www.hirosaki-th.asn.ed.jp/index-j.html) - HIGH SCHOOL DIPLOMA Electricity(2010 - 2013)
 
 ## Languages
+
 Japanese – native
 
 English – beginner
 
 ## Personal projects
 
-[CoinStats](https://coin-stats.site/) - Website development (December 2017 - January 2018) Developd website with Angular2, TypeScript, Ruby on Rails5 and MySQL.
+[CoinStats](/blog/coin-stats/) - Website development (December 2017 - January 2018) Developd website with Angular2, TypeScript, Ruby on Rails5 and MySQL.
 
 Holy Cow([Android](https://play.google.com/store/apps/details?id=com.kogawawork.holycow&hl=ja), [iOS](https://itunes.apple.com/jp/app/holy-cow/id1323714301?l=ja&ls=1&mt=8)) - Mobile app development (November 2017 - December 2017) Angular2, Ionic, TypeScript
 
@@ -48,4 +52,3 @@ Github, Bitbucket, Atlassian, Zabbix, Backlog, Slack
 <iframe src="https://www.google.com/maps/d/embed?mid=1XYS0gAgM7s67PoS0y2_TQEvnqaUdx42t" width="640" height="480"></iframe>
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1yo85G4hsyin0v3AD1aEz2rNEz2LEiyNr" width="640" height="480"></iframe>
-
