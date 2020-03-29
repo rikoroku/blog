@@ -4,4 +4,4 @@ serve:
 deploy:
 	cd hugo; hugo -t kiss;
 	rm -fr ./docs/* && mv ./hugo/public/* ./docs/
-	cd ./docs && git add --all && git commit -m "[add] Publishing to docs" && git push origin master
+	cd ./docs && git add --all && git commit -m "update" && git push origin master
