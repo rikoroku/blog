@@ -7,7 +7,7 @@ hidden: true
 
 ## About me
 
-I'm a web developer who can using languages are Ruby, PHP, Golang and JavaScript.
+I’m a web developer who can use languages are Ruby, PHP, Golang and TypeScript.
 
 ## Work experience
 
