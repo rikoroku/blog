@@ -22,11 +22,21 @@
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://rikoroku.github.io/blog/post/</link>
+      <title>忘れたくない概念</title>
+      <link>https://rikoroku.github.io/blog/dont-want-to-forget/</link>
       <pubDate>Sat, 23 Nov 2019 16:04:29 +0900</pubDate>
       <author></author>
-      <guid>https://rikoroku.github.io/blog/post/</guid>
+      <guid>https://rikoroku.github.io/blog/dont-want-to-forget/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>子供に教えたい/してあげたいこと</title>
+      <link>https://rikoroku.github.io/blog/for-my-children/</link>
+      <pubDate>Fri, 22 Nov 2019 15:19:56 +0900</pubDate>
+      <author></author>
+      <guid>https://rikoroku.github.io/blog/for-my-children/</guid>
       <description></description>
       
     </item>
@@ -47,6 +57,46 @@
       <pubDate>Sun, 16 Jun 2019 10:19:23 +0900</pubDate>
       <author></author>
       <guid>https://rikoroku.github.io/blog/resume/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>日々の習慣</title>
+      <link>https://rikoroku.github.io/blog/daily-routines/</link>
+      <pubDate>Fri, 22 Mar 2019 02:48:44 +0000</pubDate>
+      <author></author>
+      <guid>https://rikoroku.github.io/blog/daily-routines/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>サービス開発というコンテキストのアイデアを生み出すために行なっていること</title>
+      <link>https://rikoroku.github.io/blog/how-to-generate-idea-of-service/</link>
+      <pubDate>Sun, 17 Mar 2019 00:44:59 +0000</pubDate>
+      <author></author>
+      <guid>https://rikoroku.github.io/blog/how-to-generate-idea-of-service/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Favorite Animes</title>
+      <link>https://rikoroku.github.io/blog/favorite-animes/</link>
+      <pubDate>Thu, 14 Mar 2019 15:29:01 +0000</pubDate>
+      <author></author>
+      <guid>https://rikoroku.github.io/blog/favorite-animes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>読了本</title>
+      <link>https://rikoroku.github.io/blog/books-that-finished-reading/</link>
+      <pubDate>Thu, 14 Mar 2019 10:06:21 +0000</pubDate>
+      <author></author>
+      <guid>https://rikoroku.github.io/blog/books-that-finished-reading/</guid>
       <description></description>
       
     </item>
