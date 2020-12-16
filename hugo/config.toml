@@ -18,3 +18,6 @@ platforms = ["github","instagram","about","rss"]
 
 [blackfriday]
 hrefTargetBlank = false
+
+[markup.goldmark.renderer]
+unsafe= true
