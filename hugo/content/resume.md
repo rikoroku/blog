@@ -15,7 +15,7 @@ I’m a web developer who can use languages are Ruby, PHP, Golang and TypeScript
 
 CHIYUU - Freelance web developer (January 2017 - Present)
 
-[DMM ACADEMY](https://dmm.academy/) - Web developer (April 2017 - July 2017)
+[DMM ACADEMY(first-generation student)](https://dmm.academy/) - Web developer (April 2017 - July 2017)
 
 ACCEL UNIVERSE CORPORATION - Web developer (January 2015 - October 2016)
 
