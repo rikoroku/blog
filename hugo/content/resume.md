@@ -13,13 +13,13 @@ I’m a web developer who can use languages are Ruby, PHP, Golang and TypeScript
 
 [MMM Co., Ltd.](https://mmmcorp.co.jp/) - Web developer (May 2019 - July 2019)
 
-CHIYUU - Freelance web developer (January 2017 - Present)
+[CHIYUU](https://chiyuu-official.com/) - Freelance web developer (January 2017 - Present)
 
 [DMM ACADEMY(first-generation student)](https://dmm.academy/) - Web developer (April 2017 - July 2017)
 
-ACCEL UNIVERSE CORPORATION - Web developer (January 2015 - October 2016)
+[ACCEL UNIVERSE CORPORATION](https://www.acceluniverse.com/) - Web developer (January 2015 - October 2016)
 
-[KINDEN CORPORATION](http://www.kinden.co.jp/) - Site worker (April 2013 - December 2014) Electrical work for building construction.
+[KINDEN CORPORATION](https://www.kinden.co.jp/english/) - Site worker (April 2013 - December 2014) Electrical work for building construction.
 
 ## Education
 
@@ -29,7 +29,7 @@ ACCEL UNIVERSE CORPORATION - Web developer (January 2015 - October 2016)
 
 Japanese – native
 
-English – beginner
+English – beginner(Learning activities recorded on [twitter](https://twitter.com/jom_vlog))
 
 ## Personal projects
 
