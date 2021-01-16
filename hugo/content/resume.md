@@ -9,6 +9,8 @@ hidden: true
 
 I’m a web developer who can use languages are Ruby, PHP, Golang and TypeScript.
 
+[Here](/blog/about-me/) is more about who I am.
+
 ## Work experience
 
 [MMM Co., Ltd.](https://mmmcorp.co.jp/) - Web developer (May 2019 - July 2019)
