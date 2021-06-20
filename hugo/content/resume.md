@@ -39,7 +39,7 @@ English – beginner(Learning activities recorded on [twitter](https://twitter.c
 
 Holy Cow([Android](https://play.google.com/store/apps/details?id=com.kogawawork.holycow&hl=ja), [iOS](https://itunes.apple.com/jp/app/holy-cow/id1323714301?l=ja&ls=1&mt=8)) - Mobile app development (November 2017 - December 2017) Angular2, Ionic, TypeScript
 
-EveryDay Todo([Android](https://play.google.com/store/apps/details?id=com.ionicframework.everydaytodo880856&hl=ja), [iOS](https://itunes.apple.com/us/app/%E6%AF%8E%E6%97%A5todo/id1296569907?mt=8)) - Mobile app development (November 2017 - December 2017) Angular2, Ionic, TypeScript
+Daily Todo([Android](https://play.google.com/store/apps/details?id=com.ionicframework.everydaytodo880856&hl=ja), [iOS](https://apps.apple.com/jp/app/daily-todo/id1296569907?l=en)) - Mobile app development (November 2017 - December 2017) Angular2, Ionic, TypeScript
 
 ## Technologies and Skills Summary
 
